@@ -29,3 +29,12 @@
 	margin: 0px;
 	color: Ivory;
 }
+
+body{
+	padding: 50px 0px 0px 0px;
+	z-index; 0;
+}
+
+.navbar-dark{
+	background: #3b4b21; /*DarkOliveGreen Darker*/
+}
