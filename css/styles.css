@@ -44,7 +44,7 @@ body{
 	border-right: 1px solid #DDD;
 	border-bottom: 1px solid #DDD;
 	background-color: #ccd3c1; /* DarkOliveGreen Super Light*/
-
+	padding: 10px;
 }
 
 .nav-tabs .nav-link.active {
