@@ -38,3 +38,17 @@ body{
 .navbar-dark{
 	background: #3b4b21; /*DarkOliveGreen Darker*/
 }
+
+.tab-content{
+	border-left: 1px solid #DDD;
+	border-right: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+	background-color: #ccd3c1; /* DarkOliveGreen Super Light*/
+
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #ccd3c1;
+  border-bottom:#e2e2e2;
+  font-weight: bold;
+}
